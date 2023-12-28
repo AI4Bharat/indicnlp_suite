@@ -1,4 +1,7 @@
 # IndicNLPSuite
+
+_(page updation in progress)_
+
 Natural Language Understanding resources for Indian languages
 
 NLP resources for 11 major Indian languages from two major language families. These resources include: (a) large-scale sentence-level monolingual corpora, (b) pre-trained word embeddings, (c) pre-trained language models, and (d) multiple NLU evaluation datasets (IndicGLUE benchmark). 
