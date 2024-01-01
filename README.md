@@ -8,6 +8,32 @@ NLP resources for 11 major Indian languages from two major language families. Th
 
 ## IndicCorp
 
+IndicCorp has been developed by discovering and scraping thousands of web sources - primarily news, magazines and books, over a duration of several months.
+
+IndicCorp is one of the largest publicly-available corpora for Indian languages. It has also been used to train our released models which have obtained state-of-the-art performance on many tasks.
+
+### Corpus Format
+
+The corpus is a single large text file containing one sentence per line. The [publicly released version](#downloads) is randomly shuffled, untokenized and deduplicated. 
+
+### Downloads
+
+
+| Language | \# News Articles* | Sentences     | Tokens        | Link     |
+| -------- | ----------------- | ------------- | ------------- | -------- |
+| as       | 0.60M             | 1.39M   |  32.6M  | [link](https://objectstore.e2enetworks.net/ai4b-public-nlu-nlg/v1-indiccorp/as.txt) |
+| bn       | 3.83M             | 39.9M | 836M  | [link](https://objectstore.e2enetworks.net/ai4b-public-nlu-nlg/v1-indiccorp/bn.txt) |
+| en       | 3.49M             | 54.3M | 1.22B | [link](https://objectstore.e2enetworks.net/ai4b-public-nlu-nlg/v1-indiccorp/en.txt) |
+| gu       | 2.63M             | 41.1M | 719M  | [link](https://objectstore.e2enetworks.net/ai4b-public-nlu-nlg/v1-indiccorp/gu.txt) |
+| hi       | 4.95M             | 63.1M |  1.86B | [link](https://objectstore.e2enetworks.net/ai4b-public-nlu-nlg/v1-indiccorp/hi.txt) |
+| kn       | 3.76M             | 53.3M | 713M  | [link](https://objectstore.e2enetworks.net/ai4b-public-nlu-nlg/v1-indiccorp/kn.txt) |
+| ml       | 4.75M             | 50.2M |  721M  | [link](https://objectstore.e2enetworks.net/ai4b-public-nlu-nlg/v1-indiccorp/ml.txt) |
+| mr       | 2.31M             | 34.0M | 551M  | [link](https://objectstore.e2enetworks.net/ai4b-public-nlu-nlg/v1-indiccorp/mr.txt) |
+| or       | 0.69M             | 6.94M   | 107M   | [link](https://objectstore.e2enetworks.net/ai4b-public-nlu-nlg/v1-indiccorp/or.txt) |
+| pa       | 2.64M             | 29.2M |  773M  | [link](https://objectstore.e2enetworks.net/ai4b-public-nlu-nlg/v1-indiccorp/pa.txt) |
+| ta       | 4.41M             |  31.5M   |  582M  | [link](https://objectstore.e2enetworks.net/ai4b-public-nlu-nlg/v1-indiccorp/ta.txt) |
+| te       | 3.98M             | 47.9M   |  674M  | [link](https://objectstore.e2enetworks.net/ai4b-public-nlu-nlg/v1-indiccorp/te.txt) |
+
 ## IndicFT
 
 ## IndicBERT
